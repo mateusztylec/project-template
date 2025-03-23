@@ -1,0 +1,10 @@
+.venv
+.next
+.idea
+.DS_Store
+.env
+.env.local
+.env.development
+.env.dev
+.env.production
+.env.prod
